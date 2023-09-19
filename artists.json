@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "name": "Almost AC DC",
+    "image": "/presse_kit/ALMOST AC DC/Almost ACDC - Presse Foto.jpg",
+    "presskit": "/presse_kit/ALMOST AC DC/Almost ACDC - Presse.pdf",
+    "description": "",
+    "hasModal": true
+  },
+  {
+    "id": 2,
+    "name": "Anders Blichfeldt",
+    "image": "/presse_kit/ANDERS BLICHFELDT/AB & Band pressebillede.jpg",
+    "presskit": "/presse_kit/ANDERS BLICHFELDT/Anders Blichfeldt - PR 2023 2.pdf",
+    "description": "",
+    "hasModal": true
+  },
+  {
+    "id": 3,
+    "name": "JOHNSON",
+    "image": "/presse_kit/JOHNSON/Johnson Presse.jpeg",
+    "presskit": "/presse_kit/JOHNSON/Johnson - Presse.pdf",
+    "description": "",
+    "hasModal": true
+  },
+  {
+    "id": 4,
+    "name": "Back to back",
+    "image": "/presse_kit/BACK TO BACK/Back To Back - Presse Foto 4.jpg",
+    "presskit": "/presse_kit/BACK TO BACK/Back To Back - Presse.pdf",
+    "description": "",
+    "hasModal": true
+  },
+  {
+    "id": 5,
+    "name": "Barcode Brothers",
+    "image": "/presse_kit/BARCODE BROTHERS/Barcode Brothers - Presse Foto 1.jpg",
+    "presskit": "/presse_kit/BARCODE BROTHERS/Barcode Brothers - Presse.pdf",
+    "description": "",
+    "hasModal": true
+  },
+  {
+    "id": 6,
+    "name": "Basshunter",
+    "image": "/presse_kit/BASSHUNTER/Basshunter - Presse Foto 1.jpg",
+    "presskit": "/presse_kit/BASSHUNTER/Basshunter - Presse.pdf",
+    "description": "",
+    "hasModal": true
+  },
+  {
+    "id": 7,
+    "name": "Birthe Kjær",
+    "image": "/presse_kit/BIRTHE KJÆR & FEEL GOOD BAND/Birthe_Rød_Kjole_Headshot_fullframe - Kopi.jpg",
+    "presskit": "/presse_kit/BIRTHE KJÆR & FEEL GOOD BAND/Birthe Kjær & Feel Good Band - Presse.pdf",
+    "description": "",
+    "hasModal": true
+  },
+  {
+    "id": 8,
+    "name": "Casper Milton",
+    "image": "/presse_kit/CASPER MILTON/Casper Milton - Presse Foto.jpg",
+    "presskit": "TOM",
+    "description": "/presse_kit/CASPER MILTON/Presse - Casper Milton.pdf",
+    "hasModal": true
+  },
+  {
+    "id": 9,
+    "name": "Danser med drenge",
+    "image": "/presse_kit/DANSER MED DRENGE/DmD3.0_medhånd_farveB.jpg",
+    "presskit": "/presse_kit/DANSER MED DRENGE/NYT_pressrelease3.pdf",
+    "description": "",
+    "hasModal": true
+  },
+  {
+    "id": 10,
+    "name": "Daze",
+    "image": "/presse_kit/DAZE/DSC01933.jpg",
+    "presskit": "",
+    "description": "",
+    "hasModal": true
+  },
+  {
+    "id": 11,
+    "name": "DJ Aligator",
+    "image": "/presse_kit/DJ ALIGATOR/DJ Aligator - Presse Foto 1.jpg",
+    "presskit": "/presse_kit/DJ ALIGATOR/DJ Aligator - Presse.pdf",
+    "description": "",
+    "hasModal": true
+  },
+  {
+    "id": 12,
+    "name": "DJ Sash",
+    "image": "/presse_kit/DJ SASH/DJ SASH! -  Presse Foto 2.jpg",
+    "presskit": "/presse_kit/DJ SASH/DJ SASH! dj act.pdf",
+    "description": "",
+    "hasModal": true
+  },
+  {
+    "id": 13,
+    "name": "Faustix",
+    "image": "/presse_kit/FAUSTIX/Faustix_november2022_@Nikolaj Osorio_WEB_4.jpg",
+    "hasModal": false
+  },
+  {
+    "id": 14,
+    "name": "Fuld Effekt",
+    "image": "/presse_kit/FULD EFFEKT/FuldEffekt_060222_015 (1).jpg",
+    "hasModal": false
+  },
+  {
+    "id": 15,
+    "name": "Gnags",
+    "image": "/presse_kit/GNAGS/GNAGS 2022 fotokredit Per Lange.jpg",
+    "hasModal": false
+  },
+  {
+    "id": 16,
+    "name": "Hardinger Band",
+    "image": "/presse_kit/HARDINGER BAND/Hardinger Band - Presse Foto.jpg",
+    "hasModal": false
+  },
+  {
+    "id": 17,
+    "name": "Italobrothers",
+    "image": "/presse_kit/ITALOBROTHERS/3F0A4859.jpg",
+    "hasModal": false
+  },
+  {
+    "id": 18,
+    "name": "Lis Sørensen",
+    "image": "/presse_kit/LIS SØRENSEN/Lis Sørensen - Presse Foto 1.jpg",
+    "hasModal": false
+  },
+  {
+    "id": 19,
+    "name": "Lizot",
+    "image": "/presse_kit/LIZOT/LIZOT.jpeg",
+    "hasModal": false
+  },
+  {
+    "id": 20,
+    "name": "Malurt",
+    "image": "/presse_kit/MALURT/MALURT - Presse Foto 1.jpg",
+    "hasModal": false
+  },
+  {
+    "id": 21,
+    "name": "Mason J",
+    "image": "/presse_kit/MASON J/Mason J - Presse Foto.jpeg",
+    "hasModal": false
+  },
+  {
+    "id": 22,
+    "name": "Mathilde Falch",
+    "image": "/presse_kit/MATHILDE FALCH/Mathilde Falch - Presse Foto.jpg",
+    "hasModal": false
+  },
+  {
+    "id": 23,
+    "name": "Michael Falch og Det Band",
+    "image": "/presse_kit/Michael Falch & Det Band/Michael Falch & Dét Band - Presse Foto 2.jpg",
+    "hasModal": false
+  },
+  {
+    "id": 24,
+    "name": "Michael Falch Solo",
+    "image": "/presse_kit/MICHAEL FALCH SOLO/Presse Foto.jpg",
+    "hasModal": false
+  },
+  {
+    "id": 25,
+    "name": "Michael learns to rock",
+    "image": "/presse_kit/MICHAEL LEARNS TO ROCK/MLTR Presse Foto 2023.png",
+    "hasModal": false
+  },
+  {
+    "id": 26,
+    "name": "Michelsen & Bramsen",
+    "image": "/presse_kit/MICHELSEN & BRAMSEN/Michelsen & Bramsen(1).jpg",
+    "hasModal": false
+  },
+  {
+    "id": 27,
+    "name": "Morten Remar & De Lykkelige Kværulanter",
+    "image": "/presse_kit/Morten Remar & De Lykkelige Kværulanter/DLK_Presse_firkant_2022.jpg",
+    "hasModal": false
+  },
+  {
+    "id": 28,
+    "name": "Nikolaj og Piloterne",
+    "image": "/presse_kit/NIKOLAJ & PILOTERNE/Nikolaj & Piloterne - Presse Foto.jpg",
+    "hasModal": false
+  },
+  {
+    "id": 29,
+    "name": "Outlandish",
+    "image": "/presse_kit/OUTLANDISH/Outlandish 2023.jpg",
+    "hasModal": false
+  },
+  {
+    "id": 30,
+    "name": "Peter AG",
+    "image": "/presse_kit/PETER AG/Peter A.G. - Presse Foto 1.jpg",
+    "hasModal": false
+  },
+  {
+    "id": 31,
+    "name": "Randers Cowboys",
+    "image": "/presse_kit/RANDERS COWBOYS/Randers Cowboys - Presse Foto.jpeg",
+    "hasModal": false
+  },
+  {
+    "id": 32,
+    "name": "Rasmus Hagen",
+    "image": "/presse_kit/Rasmus Hagen/Rasmus Hagen - Presse Foto.jpeg",
+    "hasModal": false
+  },
+  {
+    "id": 33,
+    "name": "Rene og Værsgo",
+    "image": "/presse_kit/RENE OG VÆRSGO/Rene Værsgo' - Presse.jpg",
+    "hasModal": false
+  },
+  {
+    "id": 34,
+    "name": "Sebastian Band",
+    "image": "/presse_kit/SEBASTIAN BAND/Foto.jpg",
+    "hasModal": false
+  },
+  {
+    "id": 35,
+    "name": "Sebastian Solo",
+    "image": "/presse_kit/SEBASTIAN SOLO/Sebastian Solo - Presse Foto.jpg",
+    "hasModal": false
+  },
+  {
+    "id": 36,
+    "name": "SO90S",
+    "image": "/presse_kit/SO90S/So90s - Presse Foto .jpg",
+    "hasModal": false
+  },
+  {
+    "id": 37,
+    "name": "Souvenirs",
+    "image": "/presse_kit/SOUVENIRS/Souvenirs - Presse Foto.jpeg",
+    "hasModal": false
+  },
+  {
+    "id": 38,
+    "name": "The Antonelli Orchestra",
+    "image": "/presse_kit/THE ANTONELLI ORCHESTRA/The Antonelli Orchestra - Presse Foto.jpg",
+    "hasModal": false
+  },
+  {
+    "id": 39,
+    "name": "The Powls",
+    "image": "/presse_kit/THE POWLS/The Powls - Presse Foto.jpeg",
+    "hasModal": false
+  },
+  {
+    "id": 40,
+    "name": "Zididada",
+    "image": "/presse_kit/ZIDIDADA/Zididada - Presse Foto.jpg",
+    "hasModal": false
+  }
+]

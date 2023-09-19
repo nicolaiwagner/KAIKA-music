@@ -1,0 +1,162 @@
+{
+  "juni": [
+    {
+      "date": "10",
+      "artist": "Back to Back",
+      "venue": "Horsens"
+    },
+    {
+      "date": "11",
+      "artist": "Birthe Kjær",
+      "venue": "Nibe Festival"
+    },
+    {
+      "date": "14",
+      "artist": "Michael Falch",
+      "venue": "Aarhus"
+    },
+    {
+      "date": "15",
+      "artist": "Outlandish",
+      "venue": "København"
+    },
+    {
+      "date": "16",
+      "artist": "Outlandish",
+      "venue": "Aarhus"
+    },
+    {
+      "date": "22",
+      "artist": "DJ Aligator",
+      "venue": "Odense"
+    },
+    {
+      "date": "30",
+      "artist": "Michael Falch",
+      "venue": "Middelfart"
+    }
+  ],
+  "juli": [
+    {
+      "date": "1",
+      "artist": "Basshunter",
+      "venue": "Roskilde Festival"
+    },
+    {
+      "date": "1",
+      "artist": "Danser med Drenge",
+      "venue": "Roskilde Festival"
+    },
+    {
+      "date": "2",
+      "artist": "Mathilde Falch",
+      "venue": "Aarhus"
+    },
+    {
+      "date": "4",
+      "artist": "Mathilde Falch",
+      "venue": "København"
+    },
+    {
+      "date": "14",
+      "artist": "Anders Blichfeldt",
+      "venue": "Aarhus"
+    },
+    {
+      "date": "15",
+      "artist": "DJ Aligator",
+      "venue": "Aalborg"
+    },
+    {
+      "date": "23",
+      "artist": "Barcode Brothers",
+      "venue": "Odense"
+    }
+  ],
+  "august": [
+    {
+      "date": "1",
+      "artist": "Lis Sørensen",
+      "venue": "Smukfest"
+    },
+    {
+      "date": "2",
+      "artist": "Birthe Kjær",
+      "venue": "Smukfest"
+    },
+    {
+      "date": "2",
+      "artist": "Michael Learns to Rock",
+      "venue": "Smukfest"
+    },
+    {
+      "date": "3",
+      "artist": "Outlandish",
+      "venue": "Smukfest"
+    },
+    {
+      "date": "6",
+      "artist": "Zididada",
+      "venue": "Smukfest"
+    },
+    {
+      "date": "22",
+      "artist": "Italobrothers",
+      "venue": "Aarhus"
+    },
+    {
+      "date": "26",
+      "artist": "Michael Falch",
+      "venue": "Aarhus"
+    }
+  ],
+  "september": [
+    {
+      "date": "1",
+      "artist": "Peter AG",
+      "venue": "Vejle"
+    },
+    {
+      "date": "2",
+      "artist": "Peter AG",
+      "venue": "Odense"
+    },
+    {
+      "date": "7",
+      "artist": "Peter AG",
+      "venue": "København"
+    },
+    {
+      "date": "9",
+      "artist": "Outlandish",
+      "venue": "Horsens"
+    },
+    {
+      "date": "12",
+      "artist": "Sebastian",
+      "venue": "Aarhus"
+    }
+  ],
+  "oktober": [
+    {
+      "date": "14",
+      "artist": "SO90S",
+      "venue": "Esbjerg"
+    },
+    {
+      "date": "16",
+      "artist": "SO90S",
+      "venue": "Sønderborg"
+    },
+    {
+      "date": "22",
+      "artist": "Michelsen & Bramsen",
+      "venue": "Aarhus"
+    },
+    {
+      "date": "21",
+      "artist": "Michelsen & Bramsen",
+      "venue": "København"
+    }
+  ]
+}
